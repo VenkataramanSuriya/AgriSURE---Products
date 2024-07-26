@@ -1,0 +1,4 @@
+0 YVM
+1 Beetle_attack
+2 Healthy
+3 Empty
